@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheimTooler", "ValheimTooler\ValheimTooler.csproj", "{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C9AA65E-542B-413D-B999-FC242DCE9B7B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheimToolerLauncher", "ValheimToolerLauncher\ValheimToolerLauncher.csproj", "{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheimToolerMod", "ValheimToolerMod\ValheimToolerMod.csproj", "{3D5F17BB-BB22-440E-848E-5F5F45A530F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Debug|x64.ActiveCfg = Debug|x64
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Debug|x64.Build.0 = Debug|x64
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Release|Any CPU.ActiveCfg = Release|x64
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Release|Any CPU.Build.0 = Release|x64
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Release|x64.ActiveCfg = Release|x64
+		{66A8DE82-AE2D-4A68-BC1B-84452AFE01BD}.Release|x64.Build.0 = Release|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Debug|x64.ActiveCfg = Debug|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Debug|x64.Build.0 = Debug|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Release|Any CPU.ActiveCfg = Release|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Release|Any CPU.Build.0 = Release|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Release|x64.ActiveCfg = Release|x64
+		{132806F1-5D56-4DE6-82C8-0CEE9B8778BB}.Release|x64.Build.0 = Release|x64
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Debug|x64.ActiveCfg = Debug|x64
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Debug|x64.Build.0 = Debug|x64
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Release|x64.ActiveCfg = Release|x64
+		{3D5F17BB-BB22-440E-848E-5F5F45A530F9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EC0870-19CB-4F49-8FF1-8F5E805E0396}
+	EndGlobalSection
+EndGlobal

@@ -4,28 +4,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Astropilot/ValheimTooler/releases">
-    <img src="https://img.shields.io/github/downloads/Astropilot/ValheimTooler/total"
-         alt="Download counter">
-  </a>
-  <img src="https://img.shields.io/github/v/tag/Astropilot/ValheimTooler">
-  <a href="https://github.com/Astropilot/ValheimTooler/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Astropilot/ValheimTooler"
-         alt="MIT License">
-  </a>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg">
-</p>
-<p align="center">
-  <a href="https://discord.gg/y2wbG5uQ7y">
-    <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" height="60">
-  </a>
-</p>
-
-<p align="center">
-    <a href="./README-FR.md">French Version <img src="https://cdn.countryflags.com/thumbs/france/flag-800.png" height="16"></a>
-</p>
-
-<p align="center">
   <a href="#about">About</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
@@ -75,7 +53,7 @@ Here is the list of features offered by this tool:
 
 ## Usage
 
-I made sure that you can install and run this tool easily. Just [go here](https://github.com/Astropilot/ValheimTooler/releases) to download the latest version. Take the .zip and extract it to any folder. Then run the `ValheimToolerLauncher.exe` and click on `Install`.
+I made sure that you can install and run this tool easily. Just [go here](https://github.com/bkarich/ValheimTooler/releases) to download the latest version. Take the .zip and extract it to any folder. Then run the `ValheimToolerLauncher.exe` and click on `Install`.
 
 If the button is not available it is likely that the program has not found the path to the game, specify it just below and the button should become clickable.
 
